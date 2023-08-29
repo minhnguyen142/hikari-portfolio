@@ -8,7 +8,7 @@ export default function Bio() {
       <div className="flex space-x-10 md:space-x-34 justify-center leading-loose">
         <div className="font-bold">
           <p>2003</p>
-          <p>2005</p>
+          <p>2009</p>
           <p>04/2021</p>
           <p>
             10/2021 <br /> - present
