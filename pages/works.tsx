@@ -19,7 +19,7 @@ export default function Works() {
         {darkMode ? (
           <Image
             src="/night-sky.jpg"
-            className="w-full h-72"
+            className="w-full h-72 rounded-none"
             alt=""
             width="3000"
             height="3000"
@@ -27,7 +27,7 @@ export default function Works() {
         ) : (
           <Image
             src="/Pastel-pink-sky.jpg"
-            className="w-full h-72"
+            className="w-full h-72 rounded-none"
             alt=""
             width="3000"
             height="3000"

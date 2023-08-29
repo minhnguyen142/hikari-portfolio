@@ -31,7 +31,7 @@ export default function ThemeToggle({
     } else {
       document.documentElement.classList.remove("dark");
     }
-
+    onThemeChange(darkMode);
   }, [darkMode, onThemeChange]);
 
   const toggleDarkMode = () => {
