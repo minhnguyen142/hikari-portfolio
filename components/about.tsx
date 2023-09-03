@@ -5,10 +5,10 @@ export default function About() {
         About
       </p>
       <p className="text-justify md:space-x-8">
-        I&apos;m a student who are currently following Computer Science program
+        I&apos;m a student who is currently following Computer Science program
         at Thuy Loi University. I&apos;m also learning things about content
-        creating like drawing or video editing. I&apos;m the person who is
-        pleasant at work and wants to do my own creativity comfortably
+        creating like drawing or video editing. I&apos;m kind of pleasant at
+        work and wants to do creativity comfortably in my own way.
       </p>
     </div>
   );
