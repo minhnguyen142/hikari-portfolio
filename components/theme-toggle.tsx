@@ -48,8 +48,8 @@ export default function ThemeToggle({
         <Switch
           onChange={toggleDarkMode}
           checked={darkMode}
-          onColor="#333"
-          offColor="#ccc"
+          onColor="#06b6d4"
+          offColor="#fde047"
           checkedIcon={<FiMoon className="absolute mt-1.5 mx-2" />}
           uncheckedIcon={<FiSun className="absolute mt-1.5 mx-1.5" />}
         />
