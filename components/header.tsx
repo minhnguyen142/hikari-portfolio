@@ -32,7 +32,7 @@ export default function Header({ darkMode, onThemeChange }: HeaderProps) {
 
   return (
     <div className="fixed z-20 w-full p-3 border-b-2 dark:border-gray-700 bg-white dark:bg-blue-950 text-black dark:text-white transition-all">
-      <div className="max-w-6xl mx-auto flex items-center">
+      <div className="max-w-5xl mx-auto flex items-center">
         <Link
           href="/"
           className="title bg-clip-text md:text-3xl text-2xl text-transparent bg-gradient-to-r from-orange-100 via-pink-300 to-fuchsia-300 hover:text-pink-300 dark:bg-gradient-to-r dark:from-cyan-600 dark:via-blue-700 dark:to-violet-800 dark:hover:text-blue-700 transition-colors"
